@@ -1,7 +1,12 @@
 ### Opa!!! eu sou o joão 👍 
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao1912&show_icons=true&theme=dark)
+
+---
+
+<div>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=joao1912&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
+    <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao1912&layout=compact&langs_count=7&theme=dark">
+</div>
 
 ---
 ## Tecnologias que eu estou estudando
@@ -12,8 +17,3 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
----
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao1912&langs_count=8)](https://github.com/joao1912/github-readme-stats)
