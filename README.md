@@ -1,23 +1,73 @@
-### Opa!!! eu sou o joão 👍 
+### 🧑‍💻 Sobre Mim
+- ⚙️ Focado em:
+  - **DevOps & Cloud Engineering** com AWS
+  - **Infrastructure as Code** e automação
+  - **CI/CD** e containerização com Docker/Kubernetes
+  - **Desenvolvimento** com Java, Spring, JavaScript/TypeScript e React
+- 💼 Aberto a oportunidades em DevOps/Cloud e colaborações
+- ☕ Sempre buscando aprender novas tecnologias - aceito convites para um café!
 
 
----
+<h2 align="left">🚀 DevOps & Cloud Skills</h2>
 
-<div>
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=joao1912&show_icons=true&theme=dark&include_all_commits=true&count_private=true"> 
-    <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao1912&layout=compact&langs_count=7&theme=dark">
+###
+
+<div align="center">
+<br/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="50" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="50" alt="github actions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
 </div>
 
----
-## Tecnologias que eu utilizo
+###
 
-<div style="display: inline_block">
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div><br/>
-Estou sempre buscando aprender novas tecnologias, sinta-se livre para explorar os meus códigos e talvez me oferecer um café! :coffee:
+<h2 align="left">💻 Development Skills</h2>
+
+###
+
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
+</div>
+
+###
+
+<h2 align="left">📈 Estatísticas do GitHub</h2>
+
+###
+
+<div align="center">
+  
+  ![joao1912's Stats](https://github-readme-stats.vercel.app/api?username=joao1912&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+  ![joao1912's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao1912&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=7)
+</div>
+
+<br/>
+
+<div align="center">
+  
+  *DevOps Engineer com background em desenvolvimento - explorando a intersecção entre código e infraestrutura!*
+  
+</div>
